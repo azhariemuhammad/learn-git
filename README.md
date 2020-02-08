@@ -1,2 +1,3 @@
 # learn-git
-belajar git basics
+let's learn  git basics today!
+
